@@ -1,5 +1,5 @@
 # Pylight
-A simple script that adds syntax highlighting to the input source code snippet or file and prints the result
+Command line utility for viewing code snippets and source code files with syntax-highlighting
 
 ## Installation
 > Before you get started, ensure you have Python 3.8 or later installed
