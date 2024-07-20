@@ -14,6 +14,10 @@ git clone https://github.com/Soliez/pylight.git
 python3 pylight/install.py
 ```
 
+### Alternative Installations
+
+Pylight is also available as a compiled binary. See [Releases](https://github.com/Soliez/pylight/releases) page for more details.
+
 ---
 
 ## Usage
