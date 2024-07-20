@@ -16,7 +16,7 @@ python3 pylight/install.py
 
 ### Alternative Installations
 
-Pylight is also available as a compiled binary. See [Releases](https://github.com/Soliez/pylight/releases) page for more details.
+Pylight is also available as a compiled binary. See the [Releases](https://github.com/Soliez/pylight/releases) page for more details.
 
 ---
 
